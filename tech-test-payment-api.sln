@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tech-test-payment-api", "tech-test-payment-api.csproj", "{BC5E6816-77DD-48A7-B9FF-29A600D28088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5E6816-77DD-48A7-B9FF-29A600D28088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5E6816-77DD-48A7-B9FF-29A600D28088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5E6816-77DD-48A7-B9FF-29A600D28088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5E6816-77DD-48A7-B9FF-29A600D28088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09706B50-6B49-4313-B812-40A5FA76F500}
+	EndGlobalSection
+EndGlobal
